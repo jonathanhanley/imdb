@@ -21,6 +21,7 @@ movie=object('Movie Name')
 * awards
 * poster
 * metascore
+* plot
 * imdbRating
 * dvd
 * boxOffice
